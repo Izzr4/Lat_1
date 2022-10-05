@@ -26,7 +26,6 @@ public class Bioskop
             }else
             {
                 hgawal += 10000;
-                System.out.println(hgawal);
             }
         }
         else if (hari >= 6) {
