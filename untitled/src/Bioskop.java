@@ -1,3 +1,4 @@
+//credits : @izrarya
 package com.company;
 
 import java.util.Scanner;
